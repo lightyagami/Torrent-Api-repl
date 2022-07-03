@@ -151,4 +151,6 @@ https://torrents-api.ryukme.repl.co/api/nyaasi/jujutsu kaisen/2
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[![Run on Replit](https://repl.it/badge/github/Ryuk-me/Torrents-Api)](https://github.com/lightyagami/Torrent-Api-repl/blob/master/Replit.md)
+
 ---
